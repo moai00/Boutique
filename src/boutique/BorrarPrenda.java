@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author usu21
+ * @author M Port
  */
 public class BorrarPrenda extends javax.swing.JDialog {
 

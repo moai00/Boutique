@@ -7,7 +7,7 @@ package boutique;
 
 /**
  *
- * @author usu21
+ * @author M Port
  */
 public class PrendasColor extends javax.swing.JDialog {
     

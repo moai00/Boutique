@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author moai
+ * @author M Port
  */
 public class ModificarStock extends javax.swing.JDialog {
 

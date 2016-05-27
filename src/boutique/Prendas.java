@@ -10,7 +10,7 @@ import java.util.Objects;
 
 /**
  *
- * @author usu21
+ * @author M Port
  */
 public class Prendas implements Serializable {
 

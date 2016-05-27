@@ -7,7 +7,7 @@ package boutique;
 
 /**
  *
- * @author moai
+ * @author M Port
  */
 public class ListadoPrendas extends javax.swing.JDialog {
 

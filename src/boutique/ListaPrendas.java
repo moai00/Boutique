@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author usu21
+ * @author M Port
  */
 public class ListaPrendas implements Serializable{
     

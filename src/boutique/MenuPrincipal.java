@@ -1,7 +1,11 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Practica 3 Boutique
+* Falta:
+*1- Implementar les últimes lliçons de clase (Bounds) per a que tot s'actualitzi a l'instant quan fem canvis
+*2- Afegir i treure stock ho he deixat en un sol botó "Modificar Stock" on a través d'un spinner marquem 
+l'stock que volem afegir o treure. Controla que no s'introdueixi stock negatiu. Es podria millorar per no haver de 
+fer calculs si hem de treure o afegir quantitats donades 
+d'stock
  */
 package boutique;
 
@@ -9,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author usu21
+ * @author M Port
  */
 public class MenuPrincipal extends javax.swing.JFrame {
 

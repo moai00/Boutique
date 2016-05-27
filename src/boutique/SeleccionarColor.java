@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author usu21
+ * @author M Port
  */
 public class SeleccionarColor extends javax.swing.JDialog {
     
